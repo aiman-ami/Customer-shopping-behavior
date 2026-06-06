@@ -6,7 +6,7 @@
 
 ---
 
-## The One-Line Summary
+## Summary
 
 Analyzed 3,900 customer records to find what actually drives purchases, and whether discounts, subscriptions, and age groups matter as much as assumed.
 
