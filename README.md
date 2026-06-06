@@ -151,6 +151,8 @@ Used `RANK() OVER(PARTITION BY season)` to find the top category per season. Clo
 
 ---
 
+![Q13](Q13.png)
+
 **Q13. Does applying a discount affect review ratings?**
 
 Discounted purchases average 3.74 vs 3.76 for non-discounted. Essentially no difference. Customers who use discounts are equally satisfied as those who pay full price.
